@@ -1,6 +1,6 @@
 name: RPAntiLagg
 main: Sergey_Dertan\SClearLagg\SClearLaggMainFolder\SClearLaggMain
-api: 3.0.4
+api: 3.0.0
 load: STARTUP
 author: CuongDZ
 description: Antilag for Server.
