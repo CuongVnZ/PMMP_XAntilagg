@@ -4,7 +4,7 @@ api: 3.0.4
 load: STARTUP
 author: CuongDZ
 description: Antilag for Server.
-version: 1.0
+version: 1.1
 commands:
  scl:
   permissions: scl.scl
