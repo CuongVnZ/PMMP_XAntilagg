@@ -1,0 +1,5 @@
+---
+Clear-msg: '[!] → Antilagg ← Đã dọn @count rác trên mặt đất!'
+PreClear-msg: '[!] → Antilagg ← Đang dọn rác...'
+Clear-time: 240
+...
