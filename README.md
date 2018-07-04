@@ -1,4 +1,4 @@
-# XAntilagg
+# [XAntilagg]
 Remove lagg for PMMP Server
 [!] Commands :
 - /scl clear : Remove all entities in world.
