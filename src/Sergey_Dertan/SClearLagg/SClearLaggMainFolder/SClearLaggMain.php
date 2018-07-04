@@ -49,8 +49,8 @@ class SClearLaggMain extends PluginBase
     {
         @mkdir($this->getDataFolder());
         $this->config = new Config($this->getDataFolder() . "Config.yml", Config::YAML, array(
-            "Clear-msg" => "[!] → Antilagg ← Đã dọn @count rác trên mặt đất!",
-            "PreClear-msg" => "[!] → Antilagg ← Đang dọn rác...",
+            "Clear-msg" => "[!] → Antilagg ← Removed @count entities on ground!",
+            "PreClear-msg" => "[!] → Antilagg ← Removing entities...",
             "Clear-time" => 240
         ));
         new TaskCreator($this);
